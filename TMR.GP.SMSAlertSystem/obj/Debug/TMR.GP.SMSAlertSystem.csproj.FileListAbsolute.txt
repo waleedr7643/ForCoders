@@ -1,0 +1,32 @@
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.exe
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.exe.config
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.MainForm.resources
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.MessageDetailList.resources
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.Properties.Resources.resources
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.csproj.GenerateResource.Cache
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.exe
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.pdb
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.pdb
+D:\Waleed Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.csprojResolveAssemblyReference.cache
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.exe.config
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.exe
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.pdb
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.exe
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.pdb
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.MainForm.resources
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.MessageDetailList.resources
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.Properties.Resources.resources
+J:\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.csproj.GenerateResource.Cache
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.exe.config
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.exe
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.pdb
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.exe
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.pdb
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.MainForm.resources
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.MessageDetailList.resources
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.Properties.Resources.resources
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.csproj.GenerateResource.Cache
+D:\TMR Projects\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.csprojResolveAssemblyReference.cache
+H:\Waseem Steel Traders\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\bin\Debug\TMR.GP.SMSAlertSystem.exe.config
+H:\Waseem Steel Traders\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.exe
+H:\Waseem Steel Traders\TMR.GP.SMSAlertSystem\TMR.GP.SMSAlertSystem\obj\Debug\TMR.GP.SMSAlertSystem.pdb
